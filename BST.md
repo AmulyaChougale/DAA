@@ -1,3 +1,5 @@
+## code
+```cpp
 #include <iostream>
 #include <cstdlib>
 #include<set>
@@ -223,3 +225,4 @@ int main() {
     }
     return 0;
 }
+````
